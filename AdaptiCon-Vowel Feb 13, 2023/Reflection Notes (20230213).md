@@ -3,7 +3,7 @@
 ##### Task adjustments
 * two pairs of sets of cards, shuffled, laid out in front of the Ps
 * flip one card at a time, and if they match then remove the two cards  
-* I can't find the name of this game other than "Memory game"
+* I can't find the name of this game other than "Memory game" <-- it's called [concentration](https://en.wikipedia.org/wiki/Concentration_(card_game))
 
 ##### Equipment display adjustments
 * may work better as a computer display because of paper noise being recorded
