@@ -20,6 +20,7 @@ Audio:
 1. Rode Wireless Go II with Lapel mics, each participant wears one.
 2. NT2-A, set to Cardioid mode, each participant gets one pointing to them.
 3. Recorder: TASCAM DR70D
+4. Note: there's self-noise from the mic
   
 Computer (to be confirmed):
 1. Mac Mini with 2 virtual machines, each participant get one with separate controllers and displays
