@@ -31,3 +31,5 @@ Video Recording:
 3. HDMI recorder (Atomos Ninja V) recording outputs of the ATEM mini pro.
 
 ![](https://e99knrspvvu.exactdn.com/wp-content/uploads/2021/11/ATEM-mini-Pro.jpg?strip=all&lossy=1&ssl=1)
+
+Equipment list (TODO)
