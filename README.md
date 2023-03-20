@@ -37,3 +37,5 @@ Video Recording:
 ![](https://e99knrspvvu.exactdn.com/wp-content/uploads/2021/11/ATEM-mini-Pro.jpg?strip=all&lossy=1&ssl=1)
 
 Equipment list (TODO)
+
+* [General Noise Floor measurement](https://www.avisoft.com/noisefloors.pdf)
