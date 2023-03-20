@@ -13,9 +13,9 @@ We have split the project into three main portions:
 
 [This](https://github.com/SFU-LAB/adapticon/blob/51120e74e563fe5a75c80b80bad93ad7d5329a07/Useful%20Resources.md) is a list of useful resources we have found during our research.
 
-[Method]
+[Method]()
 
-[Project Plan]
+[Project Plan]()
 
 # Physical Setups
 
