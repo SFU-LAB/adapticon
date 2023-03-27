@@ -39,3 +39,7 @@ Video Recording:
 Equipment list (TODO)
 
 * [General Noise Floor measurement](https://www.avisoft.com/noisefloors.pdf)
+* NTG2 (Left) vs NT2a (Right) spectrogram comparison
+
+![NTG2 Super-Cardioid Microphone](img/NTG2_sc.png)
+![NT2a Cardioid Microphone](img/NT2a_c.png)
