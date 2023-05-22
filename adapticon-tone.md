@@ -7,3 +7,8 @@
 
 [Editor Handbook (html)](https://steamcommunity.com/sharedfiles/filedetails/?id=2644956374)  
 [Adding Pictures (html)](https://steamcommunity.com/sharedfiles/filedetails/?id=2643992386&searchtext=textures)
+
+### Participant Instructions
+
+Past versions of participant instructions used in Escape Simulator are kept [here](https://github.com/SFU-LAB/adapticon/tree/main/Escape%20Room%20Participant%20Instructions).  
+Future changes to these images can be made using the Photoshop file provided here [Ver. 2023_05_21](https://github.com/SFU-LAB/adapticon/blob/main/Escape%20Room%20Participant%20Instructions/instructions_1080_numbered.psd).  
